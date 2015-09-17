@@ -11,7 +11,7 @@ asdfadsf
 ####四级标题
 
 我要高亮显示这个`文字`
-[百度网址](www.baidu.com "百度")
+[百度网址](http://www.baidu.com "百度")
 
 * 圆点 这是一个圆点
 * 昵称 ： 潘潘
@@ -21,4 +21,4 @@ asdfadsf
 >> 第二次缩进
 
 
-![baidu](http://www.baidu.com/img/bdlogo.gi 百度logo")
+![baidu](http://www.baidu.com/img/bdlogo.gi "百度logo")
