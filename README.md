@@ -22,3 +22,23 @@ asdfadsf
 
 
 ![baidu](http://www.baidu.com/img/bdlogo.gi "百度logo")
+
+
+
+
+```Object-C
+- (NSString*)getMyBundlePath1:(NSString *)filename
+{
+    
+    NSBundle * libBundle = MYBUNDLE ;
+    if ( libBundle && filename ){
+        NSString * s=[[libBundle resourcePath ] stringByAppendingPathComponent : filename];
+        return s;
+    }
+    return nil ;
+}
+```
+
+
+
+
